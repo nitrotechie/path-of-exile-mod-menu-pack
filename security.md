@@ -147,6 +147,6 @@ whole thing is rebuilt each patch anyway, that difference is small.
 
 ---
 
-*path-of-exile-mod-menu-pack · Updated 2026-10-29 · Shared under the MIT License*
+*path-of-exile-mod-menu-pack · Updated 2026-10-30 · Shared under the MIT License*
 
-<!-- last reviewed 2026-10-29 -->
+<!-- last reviewed 2026-10-30 -->
